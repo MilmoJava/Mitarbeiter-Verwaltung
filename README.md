@@ -8,10 +8,10 @@ Hauptfunktionalitäten
 •Übersichtliche Darstellung aller Mitarbeiter und deren Informationen
 •Statistiken über Mitarbeiterabwesenheiten
 
-Technologien und Frameworks
-•JavaSE-16
-•JavaFX sdk-19
-•Derby-Datenbank
+Technologien und Frameworks  
+•JavaSE-16  
+•JavaFX sdk-19  
+•Derby-Datenbank  
 
 Installation und Einrichtung
 •Stellen Sie sicher, dass Sie Java SE 16 und JavaFX SDK 19 auf Ihrem System installiert haben.
